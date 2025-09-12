@@ -1,0 +1,15 @@
+{
+  "name": "spooky-tales",
+  "version": "1.0.0",
+  "description": "A platform for sharing ghostly encounters",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Rohan Adhav",
+  "license": "ISC",
+  "dependencies": {
+    "sanitize-html": "^2.17.0"
+  }
+}
