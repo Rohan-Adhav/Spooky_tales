@@ -1,5 +1,7 @@
 # 👻 Spooky Tales
 
+Developed by **Rohan Adhav – Full Stack Developer & AI Enthusiast**
+
 A fun and interactive web app built with **Vanilla JavaScript** on the frontend and **Node.js** on the backend.  
 This project brings eerie stories to life with a spooky theme and simple animations. 🎃
 
